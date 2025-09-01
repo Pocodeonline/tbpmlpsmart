@@ -163,3 +163,18 @@ sku id: 10607
 id sp: 6935
 quantity: 0
 }
+{
+link: https://www.popmart.com/jp/products/6936
+Sản phẩm : 1 
+name: THE MONSTER PIN FOR LOVE シリーズ ぬいぐるみペンダント(N-Z) - ピース
+giá: 1815
+sku id: 10608
+id sp: 6936
+quantity: 0
+Sản phẩm: 2
+name: THE MONSTER PIN FOR LOVE シリーズ ぬいぐるみペンダント(N-Z) - アソートボックス
+giá: 25410
+sku id: 10609
+id sp: 6936
+quantity: 0
+}
