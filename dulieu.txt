@@ -13,7 +13,7 @@ name: THE MONSTER PIN FOR LOVE シリーズぬいぐるみペンダント(A-M) -
 giá: 25410
 sku id: 10607
 id sp: 6935
-quantity: 1
+quantity: 0
 image: https://prod-eurasian-res.popmart.com/default/20250825_150856_244580____7-33_____1200x1200.jpg
 }
 {
